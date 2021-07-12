@@ -1,8 +1,6 @@
-I'm a technical writer and editor currently.
-
-I'll be a Data Analyst soom. 
-
-I was a system analyst/develop before.
+I'm a technical writer and editor currently. <br />
+I'll be a Data Analyst soon. <br />
+I was a system analyst/develop before.<br />
 
 
 + 🔭  I'm working on my READ.me file on GigHUb
