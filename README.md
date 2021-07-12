@@ -1,4 +1,4 @@
-I'm a technical writer and editor currently.
+##I'm a technical writer and editor currently.
 I'll be a Data Analyst soom. 
 I was a system analyst/develop before.
 
