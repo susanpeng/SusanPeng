@@ -1,10 +1,9 @@
 I'm a technical writer/editor. <br />
 I've a strong background in IT field. <br />
 I worked as a system analyst/developer for ten plus years.</br>
+I also have six years of experience teaching in university and college.</br> 
 
 + [My Website](https://susanpeng.github.io/)
-+ 🔭 &nbsp;&nbsp;I'm working on my READ.me file on GigHUb
-+ 🌱 &nbsp;&nbsp;I'm leraning for Provencial Instructor Deploma. (Working on the last couese)
-+ 👯 &nbsp;&nbsp;I'm Looking forward to learning more about Data Analytics.
-+ 🥅 &nbsp;&nbsp;2021 Goal: Get a Data Analyst job
-+ ⚡  &nbsp;&nbsp;Fun fact: I love to draw on iPad and am leraning to play piano.
++ 🌱 &nbsp;&nbsp;I'm learning for my Provincial Instructor Diploma. (Working on the last course) The courses in PIDP significantly strengthened my knowledge and skills in organizing information and conveying them to the intended audience effectively.
++ 🥅 &nbsp;&nbsp;2022 Goal: Take my technical writing skills to the next level.
++ ⚡  &nbsp;&nbsp;Fun fact: I love meditation and watercolor painting.
