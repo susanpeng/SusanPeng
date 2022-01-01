@@ -1,6 +1,6 @@
-I'm a technical writer and editor currently. <br />
-I'll be a Data Analyst soon. <br />
-I was a system analyst/developer before.<br />
+I'm a technical writer/editor. <br />
+I've a strong background in IT field. <br />
+I worked as a system analyst/developer for ten plus years.<br />I hold a </br>
 
 + [My Website](https://susanpeng.github.io/)
 + 🔭 &nbsp;&nbsp;I'm working on my READ.me file on GigHUb
