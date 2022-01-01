@@ -1,5 +1,5 @@
 I'm a technical writer/editor. <br />
-I've a strong background in IT field. <br />
+I've got a strong background in the IT field. <br />
 I worked as a system analyst/developer for ten plus years.</br>
 I also have six years of experience teaching in university and college.</br> 
 
